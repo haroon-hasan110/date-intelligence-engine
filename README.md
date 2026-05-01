@@ -26,4 +26,5 @@ A Python project that generates a structured profile from a given date.
 python main.py
 
 ## 📸 Sample Output
-![Output] <img width="1448" height="1086" alt="ChatGPT Image May 1, 2026, 08_50_10 PM" src="https://github.com/user-attachments/assets/cf4f0507-3f92-4e1b-a940-a673d6ed6a9d" />
+
+![Output](https://github.com/user-attachments/assets/cf4f0507-3f92-4e1b-a940-a673d6ed6a9d)
