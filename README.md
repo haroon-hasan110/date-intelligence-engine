@@ -34,11 +34,17 @@ python main.py
 
 date-intelligence-engine/
 ├── main.py            → controller, output formatter
+
 ├── validators.py      → input validation
+
 ├── calendar_utils.py  → Gregorian info
+
 ├── islamic.py         → Hijri conversion
+
 ├── hindu.py           → Shaka calendar
+
 ├── zodiac.py          → zodiac + personality
+
 └── history.py         → "On This Day" facts
 
 ---
