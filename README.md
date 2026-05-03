@@ -33,6 +33,7 @@ python main.py
 ## Project Structure
 
 date-intelligence-engine/
+
 ├── main.py            → controller, output formatter
 
 ├── validators.py      → input validation
